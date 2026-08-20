@@ -9,7 +9,7 @@ An advanced real-time push-up counter using AI pose estimation with MediaPipe. F
 ## ✨ Features
 
 ### Core Functionality
-- ✅ **Real-time Push-up Counting** - Automatic rep counting with 95%+ accuracy
+- ✅ **Real-time Push-up Counting** - Automatic rep counting using a state-machine approach based on elbow angle thresholds
 - ✅ **Advanced Form Analysis** - Comprehensive scoring based on body alignment, elbow position, depth, and tempo
 - ✅ **Quality Grading System** - Each rep graded as Perfect, Good, Fair, or Poor
 - ✅ **Voice Feedback** - Text-to-speech announcements for counts, milestones, and form corrections
